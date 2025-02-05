@@ -1,0 +1,164 @@
+[
+    {
+        "name": "Partido de Fútbol Amistoso",
+        "description": "Partido de fútbol amistoso entre equipos locales. Inscripciones abiertas para todos los niveles, el partido sera en: Estadio Municipal.",
+        "price": 4000.00,
+        "img": "Cancha_Futbol.png",
+        "location": ["Belgrano"],
+        "category": "fútbol"
+    },
+    {
+        "name": "Torneo de Fútbol 5",
+        "description": "Torneo de fútbol 5, ideal para equipos que buscan divertirse y competir a nivel local, el evento sera en: Cancha Techada Zona Norte.",
+        "price": 5000.00,
+        "img": "Cancha_Futbol2.png",
+        "location": ["Belgrano"],
+        "category": "fútbol"
+    },
+    {
+        "name": "Liga Fútbol Amateur",
+        "description": "Liga de fútbol para equipos amateurs, abierta a todas las edades y niveles, el evento sera en: Campo Deportivo Las Flores",
+        "price": 3000.00,
+        "img": "Cancha_Futbol3.png",
+        "location": ["Flores"],
+        "category": "fútbol"
+    },
+    {
+        "name": "Copa Fútbol Juvenil",
+        "description": "Copa juvenil de fútbol, orientada a jugadores menores de 18 años en formato eliminatorio, el evento sera en: Estadio Central Juvenil.",
+        "price": 2500.00,
+        "img": "Cancha_Futbol4.png",
+        "location": ["Retiro"],
+        "category": "fútbol"
+    },
+    {
+        "name": "Copa Fútbol Femenino",
+        "description": "Copa Femenino de fútbol, orientada a jugadores menores de 18 años en formato eliminatorio, el evento sera en: Estadio Central.",
+        "price": 2500.00,
+        "img": "Cancha_Futbol5.png",
+        "location": ["Palermo"],
+        "category": "fútbol"
+    },
+    {
+        "name": "Partido de Básquet 3x3",
+        "description": "Partido de básquet en formato 3x3, para jugadores con espíritu competitivo, el partido sera en: Polideportivo Central.",
+        "price": 5000.00,
+        "img": "Cancha_Basquet.png",
+        "location": ["Belgrano"],
+        "category": "básquet"
+    },
+    {
+        "name": "Torneo de Básquet Local",
+        "description": "Torneo de básquet local con equipos de la comunidad, abierto para todas las edades, el evento sera en: Gimnasio Municipal.",
+        "price": 6000.00,
+        "img": "Cancha_Basquet2.png",
+        "location": ["Palermo"],
+        "category": "básquet"
+    },
+    {
+        "name": "Liga Básquet Juvenil",
+        "description": "Liga de básquet juvenil con equipos locales. Ideal para jugadores en formación, el evento sera en: Centro Deportivo Oeste.",
+        "price": 8000.00,
+        "img": "Cancha_Basquet3.png",
+        "location": ["Liniers"],
+        "category": "básquet"
+    },
+    {
+        "name": "Partido Básquet All-Star",
+        "description": "Partido amistoso de básquet All-Star con los mejores jugadores de la región, el evento sera en: Arena del Sol.",
+        "price": 2000.00,
+        "img": "Cancha_Basquet4.png",
+        "location": ["San Telmo"],
+        "category": "básquet"
+    },
+    {
+        "name": "Partido Básquet",
+        "description": "Partido amistoso de básquet con los mejores jugadores de la región, el partido sera en: Cancha Publica.",
+        "price": 2000.00,
+        "img": "Cancha_Basquet5.png",
+        "location": ["Villa Crespo"],
+        "category": "básquet"
+    },
+    {
+        "name": "Partido de Tenis Individual",
+        "description": "Partido de tenis individual entre aficionados, ideal para quienes buscan mejorar su nivel, el partido sera en: Club de Tenis Norte.",
+        "price": 3000.00,
+        "img": "Cancha_Tenis.png",
+        "location": ["La Paternal"],
+        "category": "tenis"
+    },
+    {
+        "name": "Torneo de Tenis Dobles",
+        "description": "Torneo de tenis en formato dobles, pensado para parejas de jugadores aficionados, el evento sera en: Club de Tenis Sur.",
+        "price": 5000.00,
+        "img": "Cancha_Tenis2.png",
+        "location": ["San Telmo"],
+        "category": "tenis"
+    },
+    {
+        "name": "Partido de Exhibición de Tenis",
+        "description": "Partido de exhibición entre jugadores locales con alta experiencia, eL PARTIDO SERA EN: Estadio Central de Tenis.",
+        "price": 4000.00,
+        "img": "Cancha_Tenis3.png",
+        "location": ["Caballito"],
+        "category": "tenis"
+    },
+    {
+        "name": "Torneo de Tenis Juvenil",
+        "description": "Torneo juvenil para jugadores de tenis menores de 18 años.",
+        "price": 4000.00,
+        "img": "Cancha_Tenis4.png",
+        "location": ["Liniers"],
+        "category": "tenis"
+    },
+    {
+        "name": "Evento Multideportivo FABO",
+        "description": "Evento multideportivo que incluye tenis. ¡Únete y compite en tu deporte favorito! Y el evento sera en: Complejo Deportivo FABO",
+        "price": 5000.00,
+        "img": "Cancha_Tenis5.png",
+        "location": ["La Paternal"],
+        "category": "tenis"
+    },
+    {
+        "name": "Partido de Pádel Amistoso",
+        "description": "Partido de pádel amistoso entre aficionados. Todos los niveles son bienvenidos y sera en: Club Pádel.",
+        "price": 3000.00,
+        "img": "Cancha_Padel1.png",
+        "location": ["Villa Crespo"],
+        "category": "pádel"
+    },
+    {
+        "name": "Torneo de Pádel Dobles",
+        "description": "Torneo de pádel en formato dobles para jugadores intermedios y avanzados el partido sera en: Pádel Club Oeste.",
+        "price": 4500.00,
+        "img": "Cancha_Padel2.png",
+        "location": ["Belgrano"],
+        "category": "pádel"
+    },
+    {
+        "name": "Liga Pádel Profesional",
+        "description": "Liga profesional de pádel con los mejores jugadores de la región, el evento sera en: Estadio Central de Pádel.",
+        "price": 7000.00,
+        "img": "Cancha_Padel3.png",
+        "location": ["Flores"],
+        "category": "pádel"
+    },
+    {
+        "name": "Partido de Exhibición de Pádel",
+        "description": "Partido de exhibición entre jugadores profesionales de pádel, el partido sera en: Club Pádel Sur.",
+        "price": 5000.00,
+        "img": "Cancha_Padel4.png",
+        "location": ["Villa Crespo"],
+        "category": "pádel"
+    },
+    {
+        "name": "Torneo de Pádel Juvenil",
+        "description": "Torneo juvenil de pádel para menores de 18 años, ideal para jugadores en desarrollo, el evento sera en: Centro Deportivo Pádel Este.",
+        "price": 3500.00,
+        "img": "Cancha_Padel5.png",
+        "location": ["La Boca"],
+        "category": "pádel"
+    }
+]
+
+
