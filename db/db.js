@@ -1,6 +1,6 @@
 import { MongoClient } from "mongodb"
 
-const cliente = new MongoClient("mongodb://localhost:27017")
+const cliente = new MongoClient("mongodb+srv://admin:admin@fabo-canchas.pocci.mongodb.net/")
 
 cliente.connect()
     .then( () => console.log("Me conecte!") )
@@ -14,5 +14,3 @@ async function consulta(){
 }
 
 consulta()
-
-
