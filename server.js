@@ -15,9 +15,9 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const corsOptions = {
-    origin: "http://localhost:5173",  // Frontend (puedes modificar según tu entorno)
+    origin: process.env.NODE_ENV === "production" ? "*" : "http://localhost:5173",
     methods: "GET, POST, DELETE, PUT"
-}
+};
 
 // Middlewares
 app.use('/img', express.static(path.join(__dirname, 'img')));  // Acceso público a imágenes
@@ -31,4 +31,4 @@ app.use("/api", ApiRoute);  // API de productos
 app.use("/api", ApiUsuario);  // API de usuarios
 
 // Inicialización del servidor
-app.listen(3332, () => console.log("¡Servidor encendido en el puerto 3332!"));
+export default app;
